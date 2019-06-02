@@ -3,7 +3,7 @@
 import os
 import telebot
 
-hostname = "google.co"
+hostname = "google.com"
 channel = '@irgping'
 token = '688285869:AAE4lVtVdfeQcRAxQ2H5zxYM724IOxRpsL8'
 
